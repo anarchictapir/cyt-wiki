@@ -6,11 +6,11 @@ In-Game Command: **/spawners**
 
 ### **Spawners**
 
-Spawners are a great way of obtaining mob loot and gaining xp. We offer a unique experience with Spawners, by changing how they can be obtained and used.
+Spawners are a great way of obtaining mob loot and gaining XP. We offer a unique experience with Spawners, by changing how they can be obtained and used.
 
 ### Obtaining Spawners
 
-All functioning Spawners must be obtained from the Spawners & Fuel Trader at /warp trading, as regular, natural Spawners don't work! Though fear not, you can still make use of these unusable Spawners by breaking them to receive Spawner Shards. Spawner Shards are an essential ingredient that is required when trading for all Spawners on offer, and each natural spawner can drop between 1 to 3 shards, along with 4 to 12 [Mob Essence](mob-spawners.md#fuel-types).
+All functioning Spawners are crafted in a constructor using the chosen recipe from **/cyg**, they can also be earned as rewards from various keys and pouches.
 
 <details>
 
@@ -28,9 +28,9 @@ All functioning Spawners must be obtained from the Spawners & Fuel Trader at /wa
 
 ### Using Spawners
 
-Once you've traded Spawner Shards and Mob Essence(link) for a Spawner, this can be placed anywhere in the world and can only be picked up with the use of a Silk Touch pickaxe.
+Once you've crafted a Spawner, it can be placed anywhere in the world and can only be picked up with the use of a Silk Touch pickaxe.
 
-To interact with the spawner, right-click to open the GUI. Here, you can view a variety of information about the spawner, the fuel it takes to run the spawner and information on upgrading the spawner.
+To interact with the spawner, right-click to open the GUI. Here, you can view a variety of information about the spawner, the fuel it takes to run the spawner, the light level required and information on upgrading the spawner.
 
 Fuel is required to run all Spawners, and as each mob spawns, fuel is consumed. Left-clicking on a placed spawner or checking out the Spawners GUI will show you the fuel types it takes to run.
 
@@ -38,13 +38,13 @@ Fuel can be inputted into the spawner either by right-clicking the spawner with 
 
 ### Fuel Types
 
-There are three fuel types that can be used to run Spawners, they are Mob Essence, Enhanced Mob Essence and Fused Essence.
+Three fuel types can be used to run Spawners, they are Mob Essence, Enhanced Mob Essence and Fused Essence.
 
 **Mob Essence** - Dropped from their respective mob, will be named Zombie Essence if dropped from a zombie. Mob Essence can only be used to fuel their respective spawners 5%+.
 
-**Enhanced Mob Essence** - Traded for at the Spawners & Fuel NPC. Enhanced Mob Essence can only be used to fuel their respective spawners 15%+.
+**Enhanced Mob Essence** - Crafted via **/cyg**. Enhanced Mob Essence can only be used to fuel their respective spawners 15%+.
 
-**Fused Essence** - Traded for at the Spawners & Fuel NPC. Fused Essence can be used on any spawner type 100%+.
+**Fused Essence** - Crafted via **/cyg**. Fused Essence can be used on any spawner type 100%+.
 
 ### Spawner Upgrade Tiers
 
